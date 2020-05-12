@@ -11,5 +11,19 @@
   "devDependencies": {
     "lerna": "^3.10.6"
   },
-  "name": "digix-ui"
+  "name": "digix-ui",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiagouxd/lerna-repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thiagouxd/lerna-repo/issues"
+  },
+  "homepage": "https://github.com/thiagouxd/lerna-repo#readme",
+  "description": ""
 }
