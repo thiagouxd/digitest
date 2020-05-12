@@ -11,6 +11,6 @@
     "access": "public"
   },
   "dependencies": {
-    "undefined": "C:\\Projetos\\digitest"
+    "digix-ui-base": "latest"
   }
 }
