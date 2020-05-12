@@ -1,6 +1,6 @@
 {
-  "name": "digitest-button",
-  "version": "2.0.2",
+  "name": "digitest-base",
+  "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
@@ -9,7 +9,5 @@
   "publishConfig": {
     "access": "public"
   },
-  "dependencies": {
-    "digix-ui-base": "latest"
-  }
+  "author": "Digix"
 }
