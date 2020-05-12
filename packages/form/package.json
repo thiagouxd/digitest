@@ -11,6 +11,6 @@
     "access": "public"
   },
   "dependencies": {
-    "digix-ui-base": "latest"
+    "@tdsign/base": "latest"
   }
 }
