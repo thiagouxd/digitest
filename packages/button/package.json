@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo testing common with version: $npm_package_version"
   },
-  "gitHead": "ff1eb9850e64d84f99d0dc8b6a057aaed16b6559",
+  "gitHead": "c00280be523d82c4b6dfcc2fc325c38ed3d6e2bb",
   "publishConfig": {
     "access": "public"
   }
