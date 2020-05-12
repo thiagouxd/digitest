@@ -1,5 +1,5 @@
 {
-  "name": "digitest-button",
+  "name": "@digitest/button",
   "version": "2.4.0",
   "main": "index.js",
   "license": "MIT",
