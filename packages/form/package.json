@@ -1,12 +1,12 @@
 {
-  "name": "@digitest/form",
+  "name": "digitest-form",
   "version": "2.0.0",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
     "test": "echo testing common with version: $npm_package_version"
   },
-  "gitHead": "c00280be523d82c4b6dfcc2fc325c38ed3d6e2bb",
+  "gitHead": "b091efee96b74ee56a0003a5d426b28321a0b093",
   "publishConfig": {
     "access": "public"
   }
