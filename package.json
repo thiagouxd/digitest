@@ -1,4 +1,5 @@
 {
+  "private": true,
   "workspaces": [
     "packages/*"
   ],
@@ -19,7 +20,7 @@
     "url": "git+https://github.com/thiagouxd/lerna-repo.git"
   },
   "author": "",
-  "license": "MIT",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/thiagouxd/lerna-repo/issues"
   },
