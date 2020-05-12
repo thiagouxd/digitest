@@ -1,8 +1,10 @@
 {
-  "private": true,
   "workspaces": [
     "packages/*"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "test": "lerna run test --since",
     "new-version": "lerna version --conventional-commits --yes",
