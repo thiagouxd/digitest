@@ -21,7 +21,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ## [1.0.2](https://github.com/thiagouxd/lerna-repo/compare/v1.0.1...v1.0.2) (2020-05-12)
 
-**Note:** Version bump only for package @digitest/button
+**Note:** Version bump only for package @tdsign/button
 
 
 
@@ -29,4 +29,4 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ## 1.0.1 (2020-05-12)
 
-**Note:** Version bump only for package @digitest/button
+**Note:** Version bump only for package @tdsign/button

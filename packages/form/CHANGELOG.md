@@ -45,4 +45,4 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ## 1.0.1 (2020-05-12)
 
-**Note:** Version bump only for package @digitest/form
+**Note:** Version bump only for package @tdsign/form

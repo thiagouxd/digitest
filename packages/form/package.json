@@ -1,6 +1,6 @@
 {
-  "name": "@digitest/form",
-  "version": "2.4.1",
+  "name": "@tdsign/form",
+  "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
