@@ -9,5 +9,8 @@
   "gitHead": "b091efee96b74ee56a0003a5d426b28321a0b093",
   "publishConfig": {
     "access": "public"
+  },
+  "dependencies": {
+    "undefined": "C:\\Projetos\\digitest"
   }
 }

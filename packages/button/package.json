@@ -10,5 +10,8 @@
     "access": "public"
   },
   "author": "",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "undefined": "C:\\Projetos\\digitest"
+  }
 }
